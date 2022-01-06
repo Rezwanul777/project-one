@@ -5,3 +5,240 @@
    font-family: 'Roboto', sans-serif;
 }
 
+/* header-part css start */
+
+.header-part{
+   display: flex;
+   width:80%;
+   margin: 0 auto;
+   margin-top: 100px;
+
+}
+
+.header-left-part{
+   width:50%;
+   margin-top: 50Px;
+}
+
+.header-right-part{
+   width:50%;
+}
+
+.header-right-part img{
+   width:80%;
+   padding-left: 60px;
+}
+
+.text-one{
+   font-weight: 900;
+   font-size: 50px;
+   padding-bottom: 20px;
+   padding-left: 20px;
+}
+
+.text-two{
+   font-weight: 700;
+   font-size: 50px;
+   color: coral;
+   padding-left: 20px;
+}
+
+.title-part{
+   border-left: 6px solid coral;
+   
+}
+
+.about-me{
+   font-size: 20px;
+   line-height: 28px;
+   padding-top: 20px;
+   text-align: justify;
+   padding-top:40px;
+}
+
+.btn{
+   text-decoration: none;
+   padding:20px 40px;
+   background-color: coral;
+   color:#fff;
+   display: inline-block;
+   margin-top: 40px;
+   border-radius: 5px;
+   
+}
+
+/* header-part css end */
+
+ /* about- part-css start */
+
+
+.about-part{
+   margin-top: 30px;
+}
+.title-part-two{
+   text-align: center;
+   font-weight: 900;
+   font-size: 50px;
+   padding-top: 60px;
+}
+.about-box-part{
+   display: flex;
+   justify-content: center;  
+   margin-top: 35px;
+}
+
+.box-img img{
+   width:50%;
+}
+.box-one{
+  background-color: lightgrey;
+  width: 400px;
+  padding: 60px;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.box-two{
+   background-color: lightskyblue;
+   width: 400px;
+   padding: 60px;
+   margin: 20px;
+   border-radius: 10px;
+ }
+ .box-three{
+   background-color: lightpink;
+   width: 400px;
+   padding: 60px;
+   margin: 20px;
+   border-radius: 10px;
+ }
+ 
+ .about-box-part h3{
+   font-size: 25px;
+   padding: 20px 0;
+ }
+ 
+ .about-box-part p{
+    text-align: justify;
+ }
+
+/* about- part-css end */
+
+ /* Developer part css start */
+ .devlope-part{
+   display: flex;
+   width:80%;
+   margin: 0 auto;
+   margin-top: 65px ;
+ }
+
+ .develope-img-part {
+    width: 60%;
+ }
+ .develope-img-part img{
+    width: 70%;
+ }
+ .develope-text-part{
+    margin-top: 30px;
+    width:50%;
+    padding-right: 50px;
+    
+   }
+
+   /* Developer part css end */
+   
+   /* Project part css start */
+   .project-part{
+      display: flex;
+      width:80%;
+      margin: 0 auto;
+      margin-top: 85px ;
+    }
+   
+    .project-img-part {
+       width: 50%;
+       padding-left: 100px;
+    }
+    .project-img-part img{
+       width: 100%;
+       
+    }
+    .project-text-part{
+       margin-top: 30px;
+       width:50%;
+             
+      }
+
+   /* Project part css end */
+
+     /* Contact Part Css Start */
+     .contact-part{
+         margin-top: 80px;
+         text-align: center;
+   }
+
+   .contact-part .card-body{
+      margin: 0 auto;
+      width:500px;
+      height: 450px;
+      background-color: #f9f9f9;
+      box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2);
+     
+    }
+
+    .card-body h3{
+      padding-top: 30px;
+      padding-bottom: 20px;
+      font-size: 25px;
+      font-weight: bold;
+   }
+
+   .card-body input{
+      padding:10px;
+      font-size: 16px;
+      margin: 10px;
+      border-radius: 8% 8% 8% 8%/ 40% 40% 40% 40%;
+   }
+
+    .card-body .btn{
+      width: 300px;
+      margin-top:20px;
+      display: inline-block;
+      font-weight: bold;
+      outline: none;
+   } 
+    /* Contact Part Css end */
+
+   /* Footer Part CSS START */
+   .footer-part{
+   padding:80px 0;
+   background-color: rgb(4, 9, 30);
+   width: 100%;
+  
+   color: #fff;
+   margin-top: 120px;
+   }
+
+   .footer-part-text{
+      text-align: center;
+
+   }
+   .footer-text{
+      font-style: italic;
+      font-weight: 800;
+      font-size: 30px;
+      padding-bottom: 20px;
+   }
+
+   .footer-part-text p{
+      font-size: 20px;
+   }
+  /* Footer Part CSS End */
+
+    
+
+
+   
+
+
+
